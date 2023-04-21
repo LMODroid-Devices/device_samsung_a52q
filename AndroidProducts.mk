@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a52q.mk
+    $(LOCAL_DIR)/lmodroid_a52q.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_a52q-userdebug \
-    lineage_a52q-user \
-    lineage_a52q-eng
+    lmodroid_a52q-userdebug \
+    lmodroid_a52q-user \
+    lmodroid_a52q-eng
